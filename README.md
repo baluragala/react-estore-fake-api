@@ -1,1 +1,5 @@
-"# react-estore-fake-api" 
+"# react-estore-fake-api"
+
+## Start server
+
+npm start
